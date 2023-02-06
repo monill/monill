@@ -40,7 +40,7 @@ Hello there! I am **John** and I'd like to thank you for visiting my profile. I 
   - Open Source projects
 
 - ⚡ Fun fact:
-  - ![Guinea Pig](/images/guinea-pig.png) Guinea pig owner 😄
+  - <img src="images/guinea-pig.png" width="24" height="24"> Guinea pig owner 😄
 
 <!--
 Here are some ideas to get you started:
