@@ -12,23 +12,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg title="Composer" alt="Composer" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 </div>
 
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">
 
 Hello there! I am **John** and I'd like to thank you for visiting my profile.
 I am looking forward to learn new things and explore opportunities in technology.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=monill)
-
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=monill)
 
 - 🔭 I’m currently working on:
   - Web-Development
+  - Network infrastructure
 
 - 🌱 I’m currently learning:
   - Flutter
@@ -41,7 +42,6 @@ I am looking forward to learn new things and explore opportunities in technology
 
 - ⚡ Fun fact:
   - Guinea pig owner 😄
-
 
 <!--
 Here are some ideas to get you started:
