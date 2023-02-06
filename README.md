@@ -1,3 +1,7 @@
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/monill" />
+</p>
+
 ![Header](/images/1516527782128.jpg)
 
 <div>
@@ -21,23 +25,27 @@ I am looking forward to learn new things and explore opportunities in technology
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=monill)
 
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 - 🔭 I’m currently working on:
   - Web-Development
 
 - 🌱 I’m currently learning:
   - Flutter
+  - VueJS
 
 - 👯 I’m looking to collaborate on:
   - Full-Stack Development
   - Computer Hardware and Networks
+  - Open Source projects
+
+- ⚡ Fun fact:
+  - Guinea pig owner 😄
+
 
 <!--
-
 Here are some ideas to get you started:
-
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
