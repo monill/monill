@@ -20,8 +20,7 @@
 
 # Hello! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">
 
-Hello there! I am **John** and I'd like to thank you for visiting my profile.
-I am looking forward to learn new things and explore opportunities in technology.
+Hello there! I am **John** and I'd like to thank you for visiting my profile. I am looking forward to learn new things and explore opportunities in technology.
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
