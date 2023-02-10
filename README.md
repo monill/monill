@@ -18,7 +18,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
 </div>
 
-# Hello! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">
+# Hello! <img alt="live long and prosper" src="images/vulcansalute.gif" width="50px">
 
 Hello there! I am **John** and I'd like to thank you for visiting my profile. I am looking forward to learn new things and explore opportunities in technology.
 
