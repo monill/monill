@@ -20,7 +20,7 @@
 
 # Hello! <img alt="live long and prosper" src="images/vulcansalute.gif" width="50px">
 
-Hello there! I am **John** and I'd like to thank you for visiting my profile. I am looking forward to learn new things and explore opportunities in technology.
+Hello there! I'm **John** and I'd like to thank you for visiting my profile. I am looking forward to learn new things and explore opportunities in technology.
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
